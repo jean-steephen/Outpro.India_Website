@@ -102,7 +102,7 @@ export default function Footer() {
             <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
               {[
                 { icon: Mail,  text: 'douajean47@gmail.com' },
-                { icon: Phone, text: '+90 404 815 79' },
+                { icon: Phone, text: '+91 90404 81579' },
                 { icon: MapPin,text: 'Bangalore, India' },
               ].map(({ icon: Icon, text }) => (
                 <div key={text} style={{ display: 'flex', alignItems: 'center', gap: 10, color: 'var(--color-text-muted)', fontSize: 'var(--text-sm)' }}>

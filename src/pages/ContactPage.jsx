@@ -4,7 +4,7 @@ import { FadeInUp } from '../components/ui/Animations';
 
 const contactInfo = [
   { icon: Mail,  label: 'Email Us',      value: 'douajean47@gmail.com',    href: 'mailto:douajean47@gmail.com' },
-  { icon: Phone, label: 'Call Us',       value: '+90 404 815 79',           href: 'tel:+9040481579' },
+  { icon: Phone, label: 'Call Us',       value: '+91 90404 81579',          href: 'tel:+919040481579' },
   { icon: MessageCircle, label: 'WhatsApp',  value: '+225 05 06 77 49 13', href: 'https://wa.me/2250506774913' },
   { icon: MapPin,label: 'Visit Us',      value: 'Koramangala, Bangalore — 560034', href: '#' },
   { icon: Clock, label: 'Working Hours', value: 'Mon–Fri, 9 AM – 7 PM IST', href: null },
